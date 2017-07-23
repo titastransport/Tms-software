@@ -38,6 +38,6 @@ script:
 notifications:
   email:
     recipients:
-      - henrique.dias@alientronics.com.br
+      - titastransport@gmail.com
     on_success: change
     on_failure: always
